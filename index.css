@@ -53,14 +53,14 @@ button {
 .container3 {
     position: absolute;
     transform: translate(-50%, -50%);
-    top: 205%;
+    top: 200%;
     left: 50%;
 }
 
 .container4 {
     position: absolute;
     transform: translate(-50%, -50%);
-    top: 280%;
+    top: 270%;
     left: 50%;
 }
 
@@ -89,7 +89,7 @@ button {
 }
 
 .card3 {
-    height: 40em;
+    height: 34em;
     width: 80em;
     border-radius: 15px;
     background-color: #202020;
